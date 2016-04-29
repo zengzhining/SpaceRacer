@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+<dict>
+    <key>Level01</key>
+	    <dict>
+	    	<key>Type</key>
+	    	<integer>2</integer>
+            <key>Num</key>
+            <integer>20</integer>
+            <key>Title</key>
+            <string>level 1 Escape All Armies</string>
+	    </dict>
+    <key>Level02</key>
+    	<dict>
+           <key>Type</key>
+            <integer>2</integer>
+            <key>Num</key>
+            <integer>30</integer>
+            <key>Title</key>
+            <string>level 2 Escape All Armies</string>
+        </dict>
+    <key>Level03</key>
+    <dict>
+       <key>Type</key>
+        <integer>2</integer>
+        <key>Num</key>
+        <integer>30</integer>
+        <key>Title</key>
+        <string>level 3 Escape All Armies</string>
+    </dict>
+    <key>Level04</key>
+    <dict>
+       <key>Type</key>
+        <integer>2</integer>
+        <key>Num</key>
+        <integer>50</integer>
+        <key>Title</key>
+        <string>level 4 Escape All Armies</string>
+    </dict>
+    <key>Level05</key>
+    <dict>
+       <key>Type</key>
+        <integer>2</integer>
+        <key>Num</key>
+        <integer>70</integer>
+        <key>Title</key>
+        <string>level 5 Escape All Armies</string>
+    </dict>
+    <key>Level06</key>
+    <dict>
+       <key>Type</key>
+        <integer>2</integer>
+        <key>Num</key>
+        <integer>70</integer>
+        <key>Title</key>
+        <string>level 6 Escape All Armies</string>
+    </dict>
+    <key>Level07</key>
+    <dict>
+       <key>Type</key>
+        <integer>2</integer>
+        <key>Num</key>
+        <integer>70</integer>
+        <key>Title</key>
+        <string>level 7 Escape All Armies</string>
+    </dict>
+    <key>Level08</key>
+    <dict>
+       <key>Type</key>
+        <integer>2</integer>
+        <key>Num</key>
+        <integer>70</integer>
+        <key>Title</key>
+        <string>level 8 Escape All Armies</string>
+    </dict>
+    <key>Level09</key>
+    <dict>
+       <key>Type</key>
+        <integer>2</integer>
+        <key>Num</key>
+        <integer>70</integer>
+        <key>Title</key>
+        <string>level 9 Escape All Armies</string>
+    </dict>
+    <key>Level10</key>
+    <dict>
+       <key>Type</key>
+        <integer>2</integer>
+        <key>Num</key>
+        <integer>70</integer>
+        <key>Title</key>
+        <string>level 10 Escape All Armies</string>
+    </dict>
+</dict>
+</plist>
